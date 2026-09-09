@@ -1,0 +1,1 @@
+"""An automated Repository Analyzer built with Python and Github Actions for Forkathon: Freshers Hackathon 2026."""

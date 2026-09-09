@@ -1,0 +1,60 @@
+{
+  "hackathon": {
+    "name": "FORKATHON: FRESHERS HACKATHON 2026",
+
+    "start": "2026-09-09T18:00:00+06:00",
+
+    "end": "2026-09-11T20:30:00+06:00"
+  },
+
+  "teams": [
+    {
+      "name": "KUET_MANTIS",
+      "repository": "https://github.com/ForkedArch/Forkathon2026-Team-KUET_MANTIS.git"
+    },
+    {
+      "name": "KUET_UNDERDOGS",
+      "repository": "https://github.com/ForkedArch/Forkathon2026-Team-KUET_Underdogs.git"
+    },
+    {
+      "name": "KUET_KUMROPOTASH",
+
+      "repository": "https://github.com/ForkedArch/Forkathon2026-Team-KUET_kumropotash.git"
+    },
+    {
+      "name": "CODE & CAFFEINE",
+
+      "repository": "https://github.com/ForkedArch/Forkathon2026-Team-CODE_and_CAFFEINE.git"
+    },
+    {
+      "name": "KUET_TITANIUM",
+
+      "repository": "https://github.com/ForkedArch/Forkathon2026-Team-KUET_Titanium.git"
+    },
+    {
+      "name": "KUET_PARADOX",
+
+      "repository": "https://github.com/ForkedArch/Forkathon2026-Team-KUET_PARADOX.git"
+    },
+    {
+      "name": "KUET_NEXTCODERS",
+
+      "repository": "https://github.com/ForkedArch/Forkathon2026-Team-KUET_NextCoders.git"
+    },
+    {
+      "name": "KUET_Galácticos",
+
+      "repository": "https://github.com/ForkedArch/Forkathon2026-Team-KUET_Galacticos.git"
+    },
+    {
+      "name": "KUET_AXIOMS",
+
+      "repository": "https://github.com/ForkedArch/Forkathon2026-Team-KUET_AXIOMS.git"
+    },
+    {
+      "name": "KUET_WARLORDS",
+
+      "repository": "https://github.com/ForkedArch/Forkathon2026-Team-KUET_WARLORDS.git"
+    }
+  ]
+}
