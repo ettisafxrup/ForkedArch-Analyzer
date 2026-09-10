@@ -67,8 +67,9 @@ def analyze_all(config, repos_dir):
     return sorted(
         results,
         key=lambda result: (
-            -result["lines_added"],
+            -result["net_lines"],
             -result["commits"],
+            -result["files_changed"],
             result["team"].casefold()
         ),
     )

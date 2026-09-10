@@ -1,11 +1,11 @@
 team,repository,commits,lines_added,lines_deleted,net_lines,files_changed,contributors,first_commit,last_commit,duration_hours
-KUET_TITANIUM,https://github.com/ForkedArch/Forkathon2026-Team-KUET_Titanium.git,19,4413,139,4274,48,4,2026-09-09T19:31:57+06:00,2026-09-09T22:20:14+06:00,2.8
-KUET_MANTIS,https://github.com/ForkedArch/Forkathon2026-Team-KUET_MANTIS.git,3,3910,42,3868,7,2,2026-09-09T22:57:38+06:00,2026-09-09T23:03:14+06:00,0.09
-KUET_UNDERDOGS,https://github.com/ForkedArch/Forkathon2026-Team-KUET_Underdogs.git,1,1196,0,1196,4,1,2026-09-10T00:38:03+06:00,2026-09-10T00:38:03+06:00,0.0
-KUET_PARADOX,https://github.com/ForkedArch/Forkathon2026-Team-KUET_PARADOX.git,3,451,75,376,1,1,2026-09-09T22:54:39+06:00,2026-09-09T23:06:09+06:00,0.19
-KUET_Galácticos,https://github.com/ForkedArch/Forkathon2026-Team-KUET_Galacticos.git,11,142,125,17,1,2,2026-09-09T18:25:34+06:00,2026-09-09T23:19:01+06:00,4.89
-KUET_NEXTCODERS,https://github.com/ForkedArch/Forkathon2026-Team-KUET_NextCoders.git,3,58,13,45,1,2,2026-09-09T23:27:33+06:00,2026-09-10T00:25:25+06:00,0.96
-CODE & CAFFEINE,https://github.com/ForkedArch/Forkathon2026-Team-CODE_and_CAFFEINE.git,13,43,33,10,2,4,2026-09-09T20:28:35+06:00,2026-09-10T00:56:19+06:00,4.46
-KUET_WARLORDS,https://github.com/ForkedArch/Forkathon2026-Team-KUET_WARLORDS.git,1,1,1,0,1,1,2026-09-09T20:23:05+06:00,2026-09-09T20:23:05+06:00,0.0
-KUET_AXIOMS,https://github.com/ForkedArch/Forkathon2026-Team-KUET_AXIOMS.git,0,0,0,0,0,0,,,0
-KUET_KUMROPOTASH,https://github.com/ForkedArch/Forkathon2026-Team-KUET_kumropotash.git,0,0,0,0,0,0,,,0
+KUET_TITANIUM,https://github.com/ForkedArch/Forkathon2026-Team-KUET_Titanium.git,26,14904,176,14728,73,3,2026-09-09T19:31:57+06:00,2026-09-10T14:01:12+06:00,18.49
+KUET_PARADOX,https://github.com/ForkedArch/Forkathon2026-Team-KUET_PARADOX.git,9,16911,6170,10741,24,2,2026-09-09T22:54:39+06:00,2026-09-10T14:11:17+06:00,15.28
+KUET_MANTIS,https://github.com/ForkedArch/Forkathon2026-Team-KUET_MANTIS.git,26,1769779,1760427,9352,6112,3,2026-09-09T22:57:38+06:00,2026-09-10T15:07:21+07:00,15.16
+KUET_Galácticos,https://github.com/ForkedArch/Forkathon2026-Team-KUET_Galacticos.git,12,8805,140,8665,22,2,2026-09-10T02:51:47+06:00,2026-09-10T13:19:02+06:00,10.45
+KUET_UNDERDOGS,https://github.com/ForkedArch/Forkathon2026-Team-KUET_Underdogs.git,27,8158,606,7552,45,4,2026-09-09T18:05:00+06:00,2026-09-10T13:54:20+06:00,19.82
+KUET_KUMROPOTASH,https://github.com/ForkedArch/Forkathon2026-Team-KUET_kumropotash.git,21,7366,87,7279,22,3,2026-09-10T01:50:19+06:00,2026-09-10T13:36:20+06:00,11.77
+KUET_NEXTCODERS,https://github.com/ForkedArch/Forkathon2026-Team-KUET_NextCoders.git,9,2258,678,1580,6,1,2026-09-09T23:27:33+06:00,2026-09-10T12:54:37+06:00,13.45
+KUET_WARLORDS,https://github.com/ForkedArch/Forkathon2026-Team-KUET_WARLORDS.git,2,1490,67,1423,7,1,2026-09-09T20:23:05+06:00,2026-09-10T14:30:35+06:00,18.12
+CODE & CAFFEINE,https://github.com/ForkedArch/Forkathon2026-Team-CODE_and_CAFFEINE.git,13,43,33,10,2,3,2026-09-09T20:28:35+06:00,2026-09-10T00:56:19+06:00,4.46
+KUET_AXIOMS,https://github.com/ForkedArch/Forkathon2026-Team-KUET_AXIOMS.git,0,0,0,0,0,-1,,,0
