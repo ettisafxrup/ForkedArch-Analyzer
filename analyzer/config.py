@@ -4,7 +4,6 @@ from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 CONFIG_FILE = PROJECT_ROOT / "config.json"
-TEMPLATE_FILE = PROJECT_ROOT / "asset" / "template.png"
 REPOS_DIR = PROJECT_ROOT / "repos"
 OUTPUT_DIR = PROJECT_ROOT / "output"
 

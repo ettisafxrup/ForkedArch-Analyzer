@@ -35,7 +35,7 @@ def analyze_team(team, repos_dir, start, end):
         "lines_deleted": statistics["deleted"],
         "net_lines": statistics["net"],
         "files_changed": statistics["files"],
-        "contributors": len(authors) - 1, # Exclude ettisafxrup
+        "contributors": len(authors),
         "first_commit": first_commit.isoformat() if first_commit else "",
         "last_commit": last_commit.isoformat() if last_commit else "",
         "duration_hours": duration_hours,

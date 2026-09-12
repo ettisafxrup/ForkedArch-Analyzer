@@ -1,48 +1,34 @@
-# Forkathon: Freshers Hackathon 2026
+# Forkathon Repository Analyzer
 
-## 📺 Live Team Progress
+This tool scans every repository configured in `config.json` for the hackathon
+time window and prints a complete comparison directly in the console. It does
+not require an image template or generate a progress image.
 
-The following snapshots show the development progression of all participating teams throughout the 50-hour hackathon.
+The console report includes:
 
-<!-- FORKATHON_PROGRESS_START -->
-### 2026-09-10 UTC 08-52-39
+- Overall totals for commits, additions, deletions, net lines, files, and authors
+- A ranked team comparison
+- Repository URL, first and last commit, and active development span
+- Contributor-level commits, line changes, file touches, and contribution share
 
-![Forkathon Progress](progress/2026-09-10_08-52-39.png)
+It also writes two optional CSV exports to `output/`:
 
+- `team_statistics.csv`
+- `member_statistics.csv`
 
-### 2026-09-10 UTC 05-58-12
+## Run
 
-![Forkathon Progress](progress/2026-09-10_05-58-12.png)
+Install the dependencies, then run:
 
+```text
+python analyzer.py
+```
 
-### 2026-09-10 UTC 02-36-50
+The analyzer updates or clones the repositories listed in `config.json`, scans
+their Git history, prints the report, and refreshes the CSV exports.
 
-![Forkathon Progress](progress/2026-09-10_02-36-50.png)
+## Configuration
 
-
-### 2026-09-10 UTC 01-06-08
-
-![Forkathon Progress](progress/2026-09-10_01-06-08.png)
-
-
-### 2026-09-09 UTC 23-15-05
-
-![Forkathon Progress](progress/2026-09-09_23-15-05.png)
-
-
-### 2026-09-09 UTC 21-50-43
-
-![Forkathon Progress](progress/2026-09-09_21-50-43.png)
-
-
-### 2026-09-09 UTC 21-35-18
-
-![Forkathon Progress](progress/2026-09-09_21-35-18.png)
-
-
-
-### 2026-09-08 UTC 11-35-55
-
-![Forkathon Progress](progress/2026-09-08_11-35-55.png)
-
-<!-- FORKATHON_PROGRESS_END -->
+Edit `config.json` to change the hackathon name, start/end timestamps, or the
+repositories that should be scanned. Repository directories are stored under
+`repos/`.
